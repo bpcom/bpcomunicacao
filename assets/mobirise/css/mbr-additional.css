@@ -1640,7 +1640,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-roRX3DCsir .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 6.4rem);
+    max-height: calc(98.5vh - 6.8rem);
   }
 }
 .cid-roRX3DCsir .collapsed button.navbar-toggler {
@@ -1800,6 +1800,7 @@ body {
 .cid-roRM6lx9bC .mbr-text,
 .cid-roRM6lx9bC .mbr-section-btn {
   color: #000000;
+  text-align: center;
 }
 .cid-roRM6lx9bC DIV {
   text-align: left;
@@ -1813,7 +1814,7 @@ body {
   color: #000000;
 }
 .cid-roRM6lx9bC FONT {
-  color: #44ad9d;
+  color: #000000;
 }
 .cid-roS2EVAi5a {
   padding-top: 30px;
@@ -2508,7 +2509,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-roRX3DCsir .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 6.4rem);
+    max-height: calc(98.5vh - 6.8rem);
   }
 }
 .cid-roRX3DCsir .collapsed button.navbar-toggler {
